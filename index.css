@@ -118,6 +118,11 @@ button.navbarbutton4 {
     background-color: #013863;
 }
 
+.button:click {
+    font-size: 18px;
+    text-decoration: bold;
+}
+
 #containerGrid {
     margin-left: 3%;
     margin-right: 3%;
@@ -279,6 +284,10 @@ footer {
     display: flex;
 }
 
+.FooterLinkedText:click {
+    font-size: 18px;
+    text-decoration: bold;
+}
 .FooterLinkedText a {
     font-family: Acme;
     font-size: 14px;
